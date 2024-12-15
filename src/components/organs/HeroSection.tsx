@@ -78,14 +78,14 @@ const HeroSection = () => {
                                 <div className="flex items-center gap-8">
                                     <Slide direction="up">
                                         <Button type="button" className="px-10 font-medium text-white py-2.5 bg-gradient-to-r whitespace-nowrap from-red-500 to-amber-500">
-                                            {hero.Button}
+                                           Watch Now !!
                                         </Button>
                                     </Slide>
                                     <Slide direction="up">
                                         <a href="https://youtube.com/@sae_collegiate_club_mmmut?si=F_9fnNcZc4pmBeow" className="flex items-center gap-2 text-red-500 hover:text-amber-500 group" target="_blank" 
    rel="noopener noreferrer">
                                             <YoutubeLogo size={20} color="currentColor" weight="fill" />
-                                            <Text as="span" className="text-zinc-100 group-hover:text-amber-500 uppercase text-xs">Watch reviews</Text>
+                                            <Text as="span" className="text-zinc-100 group-hover:text-amber-500 uppercase text-xl"><b>S.A.E</b></Text>
                                         </a>
                                     </Slide>
                                 </div>
