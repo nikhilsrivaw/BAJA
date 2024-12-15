@@ -10,19 +10,19 @@ export const NavLinks = [
 
 export const HeroTexts = [
     {
-        Heading: "Bhai Data.jsx me jaake edit kar",
-        Paragraph: "Welcome to GymNex, where fitness meets fun! Get ready to unleash your inner strength and transform your life!",
-        Button: "Join Now!"
+        Heading: "BAJA",
+        Paragraph: "baja where engineering mind's meet engine  ",
+        Button: "."
     },
     {
-        Heading: "New Heights of Fitness!",
-        Paragraph: "Push your limits and achieve greatness at our gym! Join our supportive community and embark on a journey of self-improvement and empowerment!",
-        Button: "Sign Up Today!"
+        Heading: "New Heights of speeding!",
+        Paragraph: "Push your limits and achieve greatness in SAE Baja! Join a community of passionate engineering students and embark on a journey of design, innovation, and hands-on learning as you create off-road vehicles for tough terrains.",
+        Button: "."
     },
     {
         Heading: "Fitness is Fun with Us!",
-        Paragraph: "At our gym, fitness is not just a routine; it's an enjoyable adventure! Join us in this fitness expedition, where fun and results go hand in hand!",
-        Button: "Enroll Now!"
+        Paragraph: "At SAE Baja, engineering is more than just a competition; it's an exciting adventure! Join us in this thrilling experience, where creativity, teamwork, and skill combine to deliver outstanding results!",
+        Button: "."
     }
 ]
 
