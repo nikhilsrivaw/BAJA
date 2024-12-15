@@ -11,7 +11,7 @@ export const NavLinks = [
 export const HeroTexts = [
     {
         Heading: "BAJA",
-        Paragraph: "baja where engineering mind's meet engine  ",
+        Paragraph: "Where Engineering Meets Adventure  BAJA SAE fosters collaboration, creativity, and problem-solving, preparing aspiring engineers for dynamic careers in the automotive and off-road industries. It’s not just about building vehicles—it’s about shaping future innovators. ",
         Button: "."
     },
     {
@@ -20,7 +20,7 @@ export const HeroTexts = [
         Button: "."
     },
     {
-        Heading: "Fitness is Fun with Us!",
+        Heading: "Off-Road Vehicle Challenges",
         Paragraph: "At SAE Baja, engineering is more than just a competition; it's an exciting adventure! Join us in this thrilling experience, where creativity, teamwork, and skill combine to deliver outstanding results!",
         Button: "."
     }
@@ -28,28 +28,33 @@ export const HeroTexts = [
 
 
 export const AboutTexts = {
-    firstText: "About GymNex",
+    firstText: "About BAJA",
     secondText: "Welcome",
-    caption: "Welcome to GymNex, where fitness meets community and transformation happens!",
-    paragraph1: "At GymNex, we are more than just a gym; we are a passionate and supportive fitness family dedicated to helping you achieve your health and wellness goals. Our mission is to create a positive and empowering environment that inspires you to challenge yourself, embrace a healthy lifestyle, and discover the best version of yourself.",
+    caption: "Design. Build. Conquer. Experience innovation and teamwork with rugged all-terrain vehicles at BAJA SAE!",
+    paragraph1: "BAJA SAE is an engineering design competition that challenges students to design, build, and race rugged all-terrain vehicles. The event emphasizes teamwork, innovation, and practical problem-solving, requiring participants to create vehicles capable of withstanding harsh terrains and dynamic conditions. It equips students with hands-on experience, preparing them for careers in the automotive and off-road vehicle industries.",
 }
 
 export const OfferTexts = {
     firstText: "What we do",
-    secondText: "All Our Offer",
+    secondText: "BAJA",
     list: [
         {
-            listCaption: "Weight Loose Programs",
-            text: "Our personalized approach, expert guidance, and proven results will help you achieve your fitness goals. Take the first step towards a transformed body and lifestyle today.",
+            listCaption: "Vehicle Design Programs",
+            text: "Gain hands-on experience in designing all-terrain vehicles with innovative features. Learn from industry experts and push the boundaries of automotive engineering."
         },
         {
-            listCaption: "Body Building Programs",
-            text: "Our expert trainers will guide you through tailored workouts, helping you achieve your bodybuilding goals efficiently and safely.",
-        }
-        , {
-            listCaption: "Different Special Classes",
-            text: "Take your workout to new heights with our high and intense Special Class, where you'll push your limits and achieve remarkable fitness results.",
-        }
-    ],
+            listCaption: "Teamwork & Collaboration Workshops",
+            text: "Enhance your teamwork skills through collaborative workshops, where creativity and problem-solving come together to tackle real-world challenges in vehicle design."
+        },
+        {
+            listCaption: "Dynamic Testing Challenges",
+            text: "Participate in thrilling testing sessions that simulate real-world terrains. Test your vehicle's endurance, durability, and performance in challenging conditions."
+        },
+        // {
+        //     listCaption: "Innovation in Engineering",
+        //     text: "Unlock your potential by creating cutting-edge solutions in automotive engineering. Transform your ideas into impactful designs with hands-on learning."
+        // }
+    ]
+    ,
 }
 

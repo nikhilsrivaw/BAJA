@@ -12,7 +12,7 @@ export const Image = <T extends React.ElementType = 'div'>({ className, image, a
     const Component = as || 'div'
     return (
         <Component className={className} {...rest}>
-            <img src={image} alt={alt} className={`w-full h-full ${objectCover}`} />
+            <img src={image} alt={alt} className={`w-full h-full ${objectCover} rounded-lg`} />
         </Component>
     )
 }
